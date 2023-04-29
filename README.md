@@ -1,5 +1,5 @@
 ### Hi there 👋
-[My Portfolio Website](https://sivanesh-s.github.io) 🌏
+[My Blog](https://sivanesh.dev) 📫 |  [My Portfolio Website](https://sivanesh-s.github.io) 🌏 
 <!--
 **Sivanesh-S/Sivanesh-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
